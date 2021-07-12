@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/homework_lesson_2/static/css/main.bb7012ef.chunk.css",
+    "main.js": "/homework_lesson_2/static/js/main.582683b4.chunk.js",
+    "main.js.map": "/homework_lesson_2/static/js/main.582683b4.chunk.js.map",
+    "runtime-main.js": "/homework_lesson_2/static/js/runtime-main.cefbf68f.js",
+    "runtime-main.js.map": "/homework_lesson_2/static/js/runtime-main.cefbf68f.js.map",
+    "static/js/2.e8cbd945.chunk.js": "/homework_lesson_2/static/js/2.e8cbd945.chunk.js",
+    "static/js/2.e8cbd945.chunk.js.map": "/homework_lesson_2/static/js/2.e8cbd945.chunk.js.map",
+    "index.html": "/homework_lesson_2/index.html",
+    "static/css/main.bb7012ef.chunk.css.map": "/homework_lesson_2/static/css/main.bb7012ef.chunk.css.map",
+    "static/js/2.e8cbd945.chunk.js.LICENSE.txt": "/homework_lesson_2/static/js/2.e8cbd945.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cefbf68f.js",
+    "static/js/2.e8cbd945.chunk.js",
+    "static/css/main.bb7012ef.chunk.css",
+    "static/js/main.582683b4.chunk.js"
+  ]
+}
